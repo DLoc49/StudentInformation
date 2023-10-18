@@ -1,0 +1,2 @@
+repository.IStudentRepository
+repository.IStuIn4Repository
